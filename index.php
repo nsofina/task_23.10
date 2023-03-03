@@ -193,3 +193,5 @@ demonstration($machine);
 //экземплр класса легковая машина
 $car = new PassengerCar("white", "alkantara", 5);
 demonstration($car);
+
+?>
